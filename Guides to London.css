@@ -9,3 +9,12 @@
   background-color: white
   color: black;
 }
+
+body {
+  background-color: lightblue;
+}
+
+.bigText{
+  font-size: 24px;
+  color:white;
+}
